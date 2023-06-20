@@ -11,6 +11,14 @@ This is The Project where CRUD operations performed by JWT
         c. secretKey
         d. secretKey
    5. After that pass command ---- node index.js to run app
+# Technologies Used
+   1. Node.js - for providing server side run time environment of javaScript
+   2. Express Server ---for setting server
+   3. MongoDb -- As a dataBAse
+   4. mongoose -- for establish communication of server with dataBase
+   5. dotenv -- for creating environment variables
+   6. jsonwebtoken -- for generating token while sign-in
+   7. winston -- for creating error-logger
 # Creating User ---TEST APIs in POSTMAN
   1. Create[SIGN-UP] ---> http://localhost:9500/user/sign-up ----> POST Request
       ![image](https://github.com/vaidyahimanshu502/Furation_Project/assets/76218691/aae25096-ff06-40f5-bd9e-a83eb5baeb07)
