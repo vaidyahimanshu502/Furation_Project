@@ -1,2 +1,2 @@
 const server = require('./server')
-server.startServer();               //Just Triggering fole of our project
+server.startServer();               // Triggering point or file of our project
