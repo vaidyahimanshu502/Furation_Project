@@ -16,5 +16,21 @@ This is The Project where CRUD operations performed by JWT
       ![image](https://github.com/vaidyahimanshu502/Furation_Project/assets/76218691/aae25096-ff06-40f5-bd9e-a83eb5baeb07)
   2. Sign_in ----->  http://localhost:9500/user/sign-in ----> POST Request
      ![image](https://github.com/vaidyahimanshu502/Furation_Project/assets/76218691/3aae6bbe-05a3-4ecb-9ff2-de8b69043c33)
+# Performing CRUD Operations wit JWT Authentication
+  1. Create-Item -----> http://localhost:9500/api/items ----> POST Request
+     ![image](https://github.com/vaidyahimanshu502/Furation_Project/assets/76218691/ec98cd48-5fd1-4f64-a570-79fdaa0877e8)
+  2. Get-All-Items ------> http://localhost:9500/api/items ----> GET Request [Applying Pagination]
+     ![image](https://github.com/vaidyahimanshu502/Furation_Project/assets/76218691/06a84ea6-e605-4baa-bfb2-5b6557cad385)
+  3. Get-Specific-Item ----> http://localhost:9500/api/items/64905c72673c0215e073c3b9 --> GET Request
+     ![image](https://github.com/vaidyahimanshu502/Furation_Project/assets/76218691/0de594fa-6f34-4a70-919b-8dbb76302b05)
+  4. Update-Item ----> http://localhost:9500/api/items/64905c72673c0215e073c3b9 ----> PUT Request
+     ![image](https://github.com/vaidyahimanshu502/Furation_Project/assets/76218691/cdf9d775-07c4-4ff7-980b-dd4eb2448ccf)
+  5. Delete-Item ----> http://localhost:9500/api/items/64905c72673c0215e073c3b9 ---> DELETE Request
+     ![image](https://github.com/vaidyahimanshu502/Furation_Project/assets/76218691/95800614-6f99-42a8-bb52-1433cac0d9d5)
+
+
+
+
+
 
 
