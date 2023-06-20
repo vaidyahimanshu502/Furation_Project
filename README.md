@@ -1,5 +1,5 @@
 # Furation_Project
-This is The Project where CRUD operations performed by JWT 
+This is The Project where CRUD operations performed by using JWT 
 
 # LOCALS Set-UP
    1. clone the project.
