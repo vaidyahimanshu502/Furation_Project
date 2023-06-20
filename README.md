@@ -9,13 +9,13 @@ This is The Project where CRUD operations performed by using JWT
         a. port
         b. environment
         c. secretKey
-        d. secretKey
+        d. mongodbURL
    5. After that pass command ---- node index.js to run app
 # Technologies Used
    1. Node.js - for providing server side run time environment of javaScript
    2. Express Server ---for setting server
    3. MongoDb -- As a dataBAse
-   4. mongoose -- for establish communication of server with dataBase
+   4. mongoose -- for establish communication between server and dataBase
    5. dotenv -- for creating environment variables
    6. jsonwebtoken -- for generating token while sign-in
    7. winston -- for creating error-logger
